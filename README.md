@@ -13,5 +13,11 @@ Mateus Araujo Nascimento         - 01211091;
 
 Raoann Camara Gonçalves          - 01211116;
 
+Natacha Santana Miranda Batista  - 01211103;
+
+Felipe Amorim Reis               - 01211036;
+
+Rai Jonas de Oliveira Maciel     - 01211115;
+
 
 
